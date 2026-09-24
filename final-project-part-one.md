@@ -1,42 +1,45 @@
-| [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+ [final project I](final-project-part-one) 
+# The Delay Domino Effect
 
+### *How Flight Delays Build Throughout the Day*
+## Outline
+Millions of flights move through the U.S. aviation network every year, but a flight does not operate in isolation. An aircraft arriving late at one airport may depart late on its next flight, potentially carrying that delay into another city. This project will explore how flight delays change throughout the day and whether disruptions appear to accumulate as the day progresses.
 
-> Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
-
-# Outline
-> Include a high-level summary of your project.  This should be a couple paragraphs that describe what you're interested in showing with your final project. 
- 
-Text here...
-
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
-
-Text here...
+Using U.S. domestic flight performance data, I plan to examine how departure delays vary by time of day, airport, and cause. Rather than focusing only on which airlines or airports have the most delays, the project will follow the aviation system from morning to night and investigate whether travelers flying later in the day experience a system carrying the effects of earlier disruptions.
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e46d415c-d551-4b93-a2e2-53938f12e615" />
+Sketch 1 shows how average departure delays change throughout the day, highlighting whether delays gradually build from morning into the evening.
 
-Text here...
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/5f1386bd-ac23-4ffa-bfe0-477a6dda7cc8" />
+Sketch 2 shows how different causes contribute to delays throughout the day, with late-arriving aircraft potentially becoming a larger factor as delays accumulate.
 
-# The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/70dac542-9d9b-42ca-830e-da106e88dd4f" />
+Sketch 3 compares delay patterns across major airports to show how the timing and severity of delays can vary by location.
 
-Text here...
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/84d58d3a-7e27-4cc3-9fbc-6e296ed0dda4" />
+Sketch 4 translates the delay patterns into a traveler’s perspective by comparing the likelihood and severity of delays across morning, afternoon, and evening flights.
 
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+## The data
+The primary data source for this project will be the U.S. Department of Transportation, Bureau of Transportation Statistics (BTS) On-Time Performance dataset. The dataset contains detailed information on domestic U.S. flights, including scheduled and actual departure and arrival times, departure and arrival delays, origin and destination airports, cancellations, and flight characteristics. BTS also provides information about the causes of delays, including carrier, weather, National Airspace System (NAS), security, and late-arriving aircraft.
+
+For this project, I plan to focus on a recent full year of flight data and use the scheduled departure time to group flights by hour of the day. I will examine how delays change from morning to evening, compare patterns across major U.S. airports, and investigate how different causes contribute to delays throughout the day. In particular, the late-arriving-aircraft category will help explore whether delays from earlier flights may contribute to delays later in the day. The analysis will eventually be used to create the line charts, heatmaps, and delay-cause visualizations shown in my initial sketches.
+
+>
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
-|      |     |             |
-|      |     |             |
+| BTS On-Time Performance Data | [BTS On-Time Performance](https://www.transtats.bts.gov/ONTIME/) | U.S. domestic flight-level data containing scheduled and actual flight times, airports, delays, cancellations, and other operational information. |
+| BTS Airline On-Time Statistics | [BTS Delay Causes](https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp) | BTS data on flight delays and reported delay causes, including carrier, weather, NAS, security, and late-arriving aircraft. |
 
-# Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
 
-Text here...
+## Method and medium
+I plan to use Tableau to analyze and visualize the flight performance data and Shorthand to create the final interactive story. Tableau will be used to develop the time-series, airport comparisons, heatmaps, and delay-cause visualizations. Shorthand will provide the narrative structure, allowing the reader to move through a typical day in the U.S. aviation system from early-morning operations to the accumulation of delays later in the day.
 
 ## References
-_List any references you used here._
+
+* U.S. Department of Transportation, Bureau of Transportation Statistics. Airline On-Time Performance Data. [BTS TranStats](https://www.transtats.bts.gov/ONTIME/)
+* U.S. Department of Transportation, Bureau of Transportation Statistics. Airline On-Time Statistics and Delay Causes. [BTS Delay Causes](https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp)
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+_*AI assistance was used to convert my basic visualization sketches and ideas into cleaner, more developed visual concepts. The project topic, story structure, visualization ideas, and final design decisions were reviewed and directed by me._
