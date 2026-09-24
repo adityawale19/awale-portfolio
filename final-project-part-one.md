@@ -7,7 +7,17 @@ Millions of flights move through the U.S. aviation network every year, but a fli
 
 Using U.S. domestic flight performance data, I plan to examine how departure delays vary by time of day, airport, and cause. Rather than focusing only on which airlines or airports have the most delays, the project will follow the aviation system from morning to night and investigate whether travelers flying later in the day experience a system carrying the effects of earlier disruptions.
 
+### Central Question
+
+How do flight delays change throughout the day across the U.S. aviation system, and what factors contribute to that pattern?
+
+### Project Structure
+
+The story will follow the progression of a typical day in the U.S. aviation system. It will begin by showing how departure delays change from early morning through the evening. Next, I will examine the different causes behind these delays, particularly whether late-arriving aircraft become a larger contributor as the day progresses. I will then compare major U.S. airports to see whether the same pattern occurs everywhere. Finally, the story will translate these patterns into a traveler's perspective by comparing morning, afternoon, and evening flights.
+
 ## Initial sketches
+*Note: The values shown in these initial sketches are illustrative and are intended to demonstrate the planned visual structure rather than final analytical results.*
+
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e46d415c-d551-4b93-a2e2-53938f12e615" />
 Sketch 1 shows how average departure delays change throughout the day, highlighting whether delays gradually build from morning into the evening.
 
