@@ -156,20 +156,27 @@ This creates a circular structure where the reader begins with a decision, explo
 
 # References
 
-U.S. Bureau of Transportation Statistics (BTS).  
-*Airline On-Time Performance Data.*
+# References
 
-U.S. Bureau of Transportation Statistics (BTS).  
-*Airline Delay Causes.*
+1. **U.S. Bureau of Transportation Statistics (BTS).**  
+   Airline On-Time Performance Data.  
+   https://www.transtats.bts.gov/OT_Delay/OT_DelayCause1.asp
 
-NOAA National Centers for Environmental Information (NCEI).  
-*Storm Events Database.*
+2. **U.S. Bureau of Transportation Statistics (BTS).**  
+   Airline On-Time Performance – Downloadable Flight Data.  
+   https://www.transtats.bts.gov/DL_SelectFields.aspx?gnoyr_VQ=FGJ
 
-Esri.  
-*ArcGIS StoryMaps.*
+3. **NOAA National Centers for Environmental Information (NCEI).**  
+   Storm Events Database.  
+   https://www.ncei.noaa.gov/access/storm-events/
 
-Datawrapper.  
-*Data visualization platform.*
+4. **Esri.**  
+   ArcGIS StoryMaps.  
+   https://storymaps.arcgis.com/
+
+5. **Datawrapper.**  
+   Data Visualization Platform.  
+   https://www.datawrapper.de/
 
 > **Note:** Additional data sources used for the airport and time-of-day comparisons will be documented with the final visualizations in Part III.
 
