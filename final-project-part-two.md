@@ -1,68 +1,181 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
-# Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
+# Final Project Part II: The Delay Domino Effect
 
-Text here!
+## Wireframes / Storyboards
 
-# User research 
+For Part II, I developed the initial sketches from Part I into a more complete story structure. The project explores how flight delays build throughout the day and what those patterns mean for everyday travelers when choosing between flights.
+### View the Storyboard
 
-## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
+[The Delay Domino Effect](https://arcg.is/1HX4mr5)
 
-Text here!
+The storyboard helped me organize the project around a sequence of questions rather than a collection of independent visualizations. Each section is intended to build on the previous one and move toward a practical takeaway for travelers.
+Rather than presenting the project as a collection of separate visualizations, I want the reader to move through a series of questions:
 
-## Interview script
-> List the goals from your research, and the questions you intend to ask. 
+**The Choice → The Scale → The Map → The Suspect → The Twist → The Mechanism → The Pattern → The Difference → The Decision → The Takeaway**
 
-Text here!
+The story begins with a simple decision between two flights with similar prices but different departure times. From there, I introduce the scale of flight delays in the U.S. and explore how delays vary geographically.
+
+Weather is introduced as an obvious possible explanation, but the story then looks beyond weather to understand what is actually causing delays. Late-arriving aircraft become an important part of the story because a delay on one flight can carry forward to the next flight operated by the same aircraft.
+
+The final part of the story looks at whether this domino effect appears in the data by comparing delay rates throughout the day and across different airports. The story then returns to the original flight choice and asks whether the reader would make the same decision after seeing the data.
+
+### Storyboard
+
+1. **The Choice**  
+   Two similar flights are presented with different departure times and prices.
+
+2. **The Scale**  
+   Show how common flight delays are across the U.S.
+
+3. **The Map**  
+   Explore how delay rates vary across airports.
+
+4. **The Suspect**  
+   Compare airport delay patterns with severe weather events.
+
+5. **The Twist**  
+   Show that weather explains only part of the overall delay story.
+
+6. **The Mechanism**  
+   Explain how a late-arriving aircraft can carry a delay into later flights.
+
+7. **The Pattern**  
+   Examine how the percentage of delayed flights changes throughout the day.
+
+8. **The Difference**  
+   Compare delay patterns across major airports and different times of day.
+
+9. **The Decision**  
+   Return to the original flight choice.
+
+10. **The Takeaway**  
+    Encourage travelers to compare more than price when choosing between flights.
+
+
+# User Research
+
+## Target Audience
+
+My target audience is **everyday U.S. air travelers who book their own flights and have some flexibility when choosing departure times**.
+
+I am especially interested in travelers who typically compare factors such as price, airline, and itinerary but may not consider departure time as part of their decision.
+
+For the user research, I looked for people who travel by air at least occasionally and have experience booking their own flights. They do not need expertise in aviation or statistics. This allows me to test whether the story and visualizations can be understood by the type of traveler the final project is intended to reach.
+
+
+## Interview Script
+
+The main goal of the interviews was to determine whether the story could be understood without additional explanation and whether the information felt useful from the perspective of someone booking a flight.
 
 | Goal | Questions to Ask |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
+|---|---|
+| Understand the main takeaway | What do you think this story is trying to tell you? |
+| Test visualization clarity | Which visualization communicates its message most clearly? |
+| Identify confusion | Was there anything that was difficult to understand? |
+| Test narrative structure | Did the progression from one visualization to the next make sense? |
+| Understand usefulness | Which part of the story feels most useful to you as a traveler? |
+| Test behavioral impact | Would this information change how you compare flights? |
+| Identify missing information | Is there anything else you would want to know before making a flight decision? |
 
 
-Text here!
+## Interview Findings
 
-## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
+The feedback showed that the central idea of the project was understandable, but the story needed to become more clearly focused on the traveler.
 
-Text here!
+One important observation was that simply showing that delays increase later in the day was not enough to create a distinctive story. Readers also needed to understand **why delays build, whether the pattern changes between airports, and what they should do with that information**.
 
-| Questions               | Interview 1 (briefly describe) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| Question you asked here | Insightful feedback            |             |             |
-|                         |                                |             |             |
-|                         |                                |             |             |
+The feedback also suggested that the visualizations would be stronger if they were connected through a clear sequence of questions rather than presented as independent charts.
+
+| Questions | Interview 1 – Professor Feedback | Interview 2 – Traveler | Interview 3 – Traveler |
+|---|---|---|---|
+| **What is the main message?** | The idea is interesting, but the audience and central message need to be more clearly defined. | Delays appear to become more common later in the day. | The time of a flight may affect the likelihood of experiencing a delay. |
+| **Which part worked best?** | The project has a good foundation but needs to develop into a more distinctive story. | The time-of-day visualization made the overall pattern easy to understand. | Comparing airports made the information feel more relevant to actual travel. |
+| **What was confusing or needed improvement?** | The project initially felt more like a data report, and it was not immediately clear who the story was for. | Some of the transitions between visualizations needed more explanation. | Some technical information could be explained in simpler language. |
+| **Was the story easy to follow?** | The individual ideas were understandable, but they needed a stronger narrative connecting them. | Mostly, but a clearer progression between the visuals would help. | The story was easier to understand when it was framed around choosing between flights. |
+| **Would this affect how you book a flight?** | The project needs a clearer call to action showing why the findings matter to the intended audience. | I would pay more attention to departure time when two flights are similarly priced. | I would consider the departure airport and time rather than looking only at price. |
+| **What was missing?** | A clearer audience, additional perspectives and datasets, stronger story progression, and a practical takeaway. | A clear recommendation at the end of the story. | More explanation of how a traveler can use the information when comparing flights. |
 
 
-# Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
+## Research Synthesis
 
-Text here!
+Across the feedback, one theme stood out: **the project should be about the traveler's decision, not simply about flight-delay statistics.**
 
-| Research synthesis                       | Anticipated changes for Part III                                                |
-|------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
+The original idea focused heavily on showing when delays occur. The feedback helped me realize that the more interesting story is understanding how delays build, what contributes to them, how the pattern differs between airports, and what those patterns mean for someone deciding between flights.
 
-> ...include any final thoughts you have here. 
+This led me to restructure the project around a simple question:
 
-Text here!
+> **If two flights work for my trip, does it really matter what time of day I choose to fly?**
 
-# Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
+That question now acts as the thread connecting the different visualizations.
 
-Text here!
 
-## References
-_List any references you used here._
+# Identified Changes for Part III
 
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+Based on the feedback, I plan to make the final project more clearly centered on the traveler and strengthen the connection between each visualization.
+
+| Research Synthesis | Anticipated Changes for Part III |
+|---|---|
+| The target audience was not immediately clear. | Frame the entire story around everyday travelers choosing between flights. |
+| The project initially felt like a collection of data visualizations. | Organize the StoryMap around a sequence of questions that progressively build the story. |
+| Showing that delays increase later in the day is not enough by itself. | Explain why delays can build by introducing delay causes and late-arriving aircraft. |
+| Weather may be the first explanation readers assume. | Compare severe weather and flight-delay patterns before examining weather versus non-weather delays. |
+| National averages hide differences between airports. | Add an airport-by-time-of-day comparison to show that the pattern is not identical everywhere. |
+| Some technical information could be difficult for general travelers. | Use short captions, plain-language explanations, annotations, and clear transitions. |
+| The practical value of the analysis was unclear. | Return to the original flight choice at the end and ask the reader to reconsider the decision. |
+| The story needed a stronger call to action. | End with a simple takeaway: compare departure time, airport delay patterns, and current conditions in addition to price. |
+
+
+## Direction for Part III
+
+For Part III, I plan to build the final story using **ArcGIS StoryMaps**, combining maps, charts, graphics, and short narrative sections.
+
+The goal is not to tell travelers that they should always choose a morning flight. Historical patterns cannot predict whether a specific flight will be delayed.
+
+Instead, the final message will be:
+
+### **Compare more than price.**
+
+When two flights work for a trip, travelers can also consider:
+
+**WHEN?**  
+Consider the departure time.
+
+**WHERE?**  
+Look at historical delay patterns at the departure airport.
+
+**CONDITIONS?**  
+Check weather and current disruptions closer to the trip.
+
+The story will then return to the flight choice introduced at the beginning and ask the reader:
+
+### **Would you still make the same choice?**
+
+This creates a circular structure where the reader begins with a decision, explores the evidence, and then returns to the same decision with additional information.
+
+
+# References
+
+U.S. Bureau of Transportation Statistics (BTS).  
+*Airline On-Time Performance Data.*
+
+U.S. Bureau of Transportation Statistics (BTS).  
+*Airline Delay Causes.*
+
+NOAA National Centers for Environmental Information (NCEI).  
+*Storm Events Database.*
+
+Esri.  
+*ArcGIS StoryMaps.*
+
+Datawrapper.  
+*Data visualization platform.*
+
+> **Note:** Additional data sources used for the airport and time-of-day comparisons will be documented with the final visualizations in Part III.
+
+
+## AI Acknowledgements
+
+Generative AI supported narrative refinement, visualization concepts, selected graphics, and writing. Data analysis, interpretation, and final design decisions were completed by the author.
+
 
