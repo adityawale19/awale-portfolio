@@ -1,3 +1,4 @@
+| [home page](index) | [government debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 ## Government Debt Analysis
 
 For my final redesign, I focused only on 2019 instead of showing the full 1995–2019 period. The heat map was useful for the big picture, but it felt a little crowded and made it harder to compare countries quickly. I wanted the final chart to answer one simple question: which countries had the highest government debt compared to their GDP in 2019? So I ranked the countries from highest to lowest and used red only for countries above 100% of GDP, while keeping the rest gray.
