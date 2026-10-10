@@ -1,54 +1,56 @@
 | [home page](index) | [government debt](visualizing-government-debt) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
+|---|---|---|---|---|---|
 
-# TSWD-portfolio-templates
-These portfolio templates are for setting up your Telling Stories with Data site.  Edit these pages and add new ones as needed.   
-It's always helpful to keep track of your web URL.  Consider putting that somewhere on your page for easy reference: 
+# Aditya Wale | Data Visualization Portfolio
 
-- Web page URL: https://cmustudent.github.io/tswd-portfolio-templates/
-- This repository: https://github.com/cmustudent/tswd-portfolio-templates/
+Welcome to my portfolio for **Telling Stories with Data** at Carnegie Mellon University.
 
-# Portfolio
-https://drive.google.com/drive/folders/1mwOJW38UB_CZIZVL5cb3OOesqPJg_XGp?usp=drive_link
-This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
+This portfolio brings together my work from the course, including data visualization exercises, critique and redesign work, and the development of my final data story.
 
-# About me
-My name is Aditya. I am an architect and MSBPD student at Carnegie Mellon University, focused on creating functional, sustainable, and context-responsive 
-designs. I integrate building performance insights into the design process to improve environmental efficiency, and spatial experience.
+# About Me
 
-# What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
+My name is **Aditya Wale**, and I am an architect and MSBPD student at Carnegie Mellon University. My work focuses on architecture, building performance, sustainability, and data-informed design.
 
-1. List item #1
-2. List item #2
-3. List item #3
+I am particularly interested in using data and building performance insights to support better design decisions and improve environmental performance and spatial experience.
 
-or...
+# What I Hoped to Learn
 
-- List item #1
-- List item #2
-- List item #3
+At the beginning of this course, I wanted to improve my ability to communicate complex information through clear and meaningful visualizations. I was particularly interested in understanding how chart type, color, layout, annotation, and visual hierarchy influence the way people interpret data.
 
-# Portfolio
+Throughout the course, I also became more interested in the storytelling side of data visualization and how understanding the audience can shape the way a story is presented.
 
-# Examples
+# Coursework
 
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
+## Visualizing Government Debt
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
-For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+For this assignment, I explored government debt data and redesigned the visualization to make comparisons between countries clearer and easier to understand.
 
-## Final project
-Here it might be helpful to include a high-level description of your final project. 
- [final project I](final-project-part-one) 
-[Part II](final-project-part-two)
-Part III(final-project-part-three)
+[View Visualizing Government Debt](visualizing-government-debt)
 
-## AI acknowledgements
-_*AI assistance was used to convert my basic visualization sketches and ideas into cleaner, more developed visual concepts. The project topic, story structure, visualization ideas, and final design decisions were reviewed and directed by me._
+## Critique by Design
 
+This assignment focused on evaluating an existing visualization and using the critique process to develop a clearer and more effective redesign.
 
+[View Critique by Design](critique-by-design)
 
-## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+# Final Project
 
+## The Delay Domino Effect
+
+### *How Flight Delays Build Throughout the Day*
+
+For my final project, I explored how flight delays develop throughout the day and what those patterns can mean for travelers choosing between flights.
+
+The project developed across three stages, from the initial idea and data exploration to user research, story development, and the final ArcGIS StoryMap.
+
+### Project Development
+
+[Final Project Part I](final-project-part-one)
+
+[Final Project Part II](final-project-part-two)
+
+[Final Project Part III](final-project-part-three)
+
+# AI Acknowledgements
+
+Generative AI was used to support brainstorming, refine written content, and assist with selected visual elements. All final content, analysis, and design decisions were reviewed and completed by the author.
